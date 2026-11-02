@@ -1,4 +1,4 @@
-# Hey, I'm Tahmid Hasan 👋
+# Hey, I'm Tahmid Hasan
 
 **Next.js & MERN Stack Developer based in Dhaka, Bangladesh.**
 
@@ -37,4 +37,4 @@ I started my web journey on the visual side—working with UI layouts, custom Wo
 
 - **Portfolio:** [tahmidhasan.net](https://www.tahmidhasan.net)
 - **Email:** [tahmidhasanpro@gmail.com](mailto:tahmidhasanpro@gmail.com)
-- **LinkedIn:** [@iamtahmidhasan](https://linkedin.com/iamtahmidhasan)
+- **LinkedIn:** [@iamtahmidhasan](https://www.linkedin.com/in/iamtahmidhasan)
