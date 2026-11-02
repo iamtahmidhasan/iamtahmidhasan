@@ -1,41 +1,45 @@
-# Hey, I'm Tahmid Hasan 👋
+<div align="center">
 
-**Next.js & MERN Stack Developer based in Dhaka, Bangladesh.**
+  <!-- Animated Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:27272a&height=220&section=header&text=TAHMID%20HASAN&fontSize=46&fontColor=fafafa&animation=fadeIn&fontAlignY=38&desc=Next.js%20%26%20MERN%20Stack%20Developer%20%7C%20Dhaka%2C%20Bangladesh&descAlignY=58&descSize=16" width="100%" alt="Tahmid Hasan Banner" />
 
-I enjoy taking ideas from a blank file to a working web application. Most of my time goes into building fast, responsive interfaces with **Next.js, React, and Tailwind CSS**, paired with practical backends using **Node.js, Express.js, and MongoDB**.
+  <!-- Live Typewriter Animation -->
+  <a href="https://www.tahmidhasan.net">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+fast%2C+interactive+web+apps+with+Next.js;Crafting+clean+interfaces+with+React%2C+Tailwind+CSS+%26+GSAP;Writing+practical+APIs+with+Node.js%2C+Express+%26+MongoDB;Turning+blank+files+into+working+web+products" alt="Typing Animation" />
+  </a>
 
-I started my web journey on the visual side—working with UI layouts, custom WordPress themes, and frontend animations. That early focus gave me an eye for clean spacing, typography, and smooth motion. Over time, curiosity pushed me behind the interface, and now I love building the APIs, user flows, and database logic that make a product actually work.
+  <br/>
+  <br/>
 
----
+  <!-- Profile Badge Links -->
+  <a href="https://www.tahmidhasan.net">
+    <img src="https://img.shields.io/badge/PORTFOLIO-TAHMIDHASAN.NET-09090b?style=for-the-badge&labelColor=18181b&color=38bdf8" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:tahmidhasanpro@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-TAHMIDHASANPRO%40GMAIL.COM-09090b?style=for-the-badge&labelColor=18181b&color=e2e8f0" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tahmidhasanpro">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-09090b?style=for-the-badge&labelColor=18181b&color=0a66c2" alt="LinkedIn" />
+  </a>
 
-### What I've Been Building
+</div>
 
-- **[Zero English](https://zeroenglish.org)** — An interactive English learning web app featuring vocabulary builders, grammar and writing modules, quizzes, and a personalized learner dashboard.
-- **Mobile Browser Code Editor** *([Live Demo](#) / [Repo](#))* — Not every beginner has a laptop to start coding, so I built a touch-friendly mobile IDE powered by Microsoft's **Monaco Editor** supporting HTML, CSS, JavaScript, TypeScript, Python, and C++.
-- **[DPI Computing Society](https://dgpics.org)** — The official community platform for the Computer Science & Technology department at Dhaka Polytechnic Institute, built to streamline tech workshops, notices, and student events.
-- **[DPI Robotics Club](https://dpirc.com)** — Official club portal designed with smooth GSAP motion to showcase student-built hardware projects, robotics competitions, and team updates.
-
----
-
-### Tech I Work With
-
-- **Core Stack:** JavaScript (ES6+), TypeScript, React, Next.js, Node.js, Express.js, MongoDB
-- **UI & Motion:** Tailwind CSS, Shadcn UI, Framer Motion, GSAP
-- **Tools & Workflow:** Git & GitHub, pnpm, REST APIs, Monaco Editor, Payload CMS, WordPress, Vercel
-
----
-
-### Currently Focusing On
-
-- Writing cleaner, more maintainable full-stack architectures with Next.js and TypeScript
-- Strengthening backend fundamentals, API design, and database performance
-- Building open, helpful tools for students and local developer communities
+<br/>
 
 ---
 
-### Let's Connect
+### `01 // ABOUT`
 
-- **Portfolio:** [tahmidhasan.net](https://www.tahmidhasan.net)
-- **Email:** [tahmidhasanpro@gmail.com](mailto:tahmidhasanpro@gmail.com)
-- **LinkedIn:** [Add Your LinkedIn URL](#)
+I started my web journey on the visual side—working with UI layouts, custom WordPress themes, and smooth frontend animations. Spending that early time on interfaces gave me a sharp eye for clean spacing, typography, and motion. Over time, curiosity pushed me behind the screen into **Next.js** and the **MERN stack**, where I now build both the interactive UI and the APIs and databases working underneath.
 
+```ts
+const developer = {
+  name: "Tahmid Hasan",
+  location: "Dhaka, Bangladesh",
+  coreStack: ["Next.js", "React", "TypeScript", "Node.js", "Express.js", "MongoDB"],
+  uiAndMotion: ["Tailwind CSS", "Shadcn UI", "Framer Motion", "GSAP"],
+  philosophy: "Clean interfaces on the surface, practical logic underneath.",
+  currentFocus: "Building full-stack web apps and accessible tools for learners"
+};
